@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.exe
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.deps.json
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.dll
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\bin\Debug\netcoreapp3.1\algoritmo alunos.pdb
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.dll
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.pdb
+E:\Meus Documentos\Área de Trabalho\Backend\Console\algoritmo alunos\obj\Debug\netcoreapp3.1\algoritmo alunos.genruntimeconfig.cache
