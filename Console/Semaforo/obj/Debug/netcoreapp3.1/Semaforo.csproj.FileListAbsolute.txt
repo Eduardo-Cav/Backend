@@ -1,0 +1,13 @@
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.exe
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.deps.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.dll
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.pdb
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.dll
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.pdb
+E:\Meus Documentos\Área de Trabalho\senai lições\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.genruntimeconfig.cache
