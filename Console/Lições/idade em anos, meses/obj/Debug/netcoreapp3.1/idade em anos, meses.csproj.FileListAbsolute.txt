@@ -1,0 +1,13 @@
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.csprojAssemblyReference.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.AssemblyInfoInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.AssemblyInfo.cs
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.csproj.CoreCompileInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.exe
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.deps.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.runtimeconfig.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.runtimeconfig.dev.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\bin\Debug\netcoreapp3.1\idade em anos, meses.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\idade em anos, meses\obj\Debug\netcoreapp3.1\idade em anos, meses.genruntimeconfig.cache
