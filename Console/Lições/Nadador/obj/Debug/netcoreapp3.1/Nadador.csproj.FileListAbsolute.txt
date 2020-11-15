@@ -1,0 +1,13 @@
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.exe
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.deps.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.runtimeconfig.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.runtimeconfig.dev.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\bin\Debug\netcoreapp3.1\Nadador.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.csprojAssemblyReference.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.AssemblyInfoInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.AssemblyInfo.cs
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.csproj.CoreCompileInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Nadador\obj\Debug\netcoreapp3.1\Nadador.genruntimeconfig.cache
