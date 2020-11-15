@@ -1,0 +1,13 @@
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.csprojAssemblyReference.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.AssemblyInfoInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.AssemblyInfo.cs
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.csproj.CoreCompileInputs.cache
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.exe
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.deps.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.runtimeconfig.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.runtimeconfig.dev.json
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\bin\Debug\netcoreapp3.1\Reajuste de salário.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.dll
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.pdb
+C:\Users\Cauê  Cauã\Desktop\Backend\Console\Lições\Reajuste de salário\obj\Debug\netcoreapp3.1\Reajuste de salário.genruntimeconfig.cache
